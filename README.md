@@ -55,7 +55,7 @@ Duration: 4 hours
 
 Vaclav Petras, NC State University, Center for Geospatial Analytics
 
-<img src="img/vaclav_petras.jpg" title="Vaclav Petras" width=150>
+Corey White, NC State University, Center for Geospatial Analytics
 
 <img src="img/ncsu_cga.png" title="Center for Geospatial Analytics at NC State" width=400>
 
